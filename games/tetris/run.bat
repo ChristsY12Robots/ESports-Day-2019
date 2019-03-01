@@ -1,0 +1,1 @@
+powershell.exe -NoExit -Command "cd J:/games/tetris; python tetris.py"
